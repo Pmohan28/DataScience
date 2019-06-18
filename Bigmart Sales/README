@@ -73,4 +73,4 @@ It contains the following -
 Random Forest, Linear Regression, Ridge Regression, Lasso, Polynomial Features, Gradient Boost Regresor, XGBoost Regressor, 
 Tuning on Hyper parameter for all the models 
 4- Using RMSE to choose the best model.
-
+5- Best Accuracy was through XGBoost Algorithm
