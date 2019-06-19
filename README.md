@@ -1,6 +1,3 @@
-This is the repository where multiple Algorithms are implemented on Various Datasets from Kaggle/UCI/Analytics Vidhya Hackathons. 
-Introduction to each data set is provided in the Folders along with their Attributes Information and Accuracy scores. 
-
 
 #  Introduction to DATA SCIENCE
 
