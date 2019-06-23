@@ -1,0 +1,18 @@
+---------------------------Problem Statement------------------------
+Classify Vehichle from the given Dataset.
+------------------------------------------------------------------------------------------------
+Data Set
+---------------------------------------
+The purpose of the case study is to classify a given silhouette as one of three different types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.
+
+Four "Corgie" model vehicles were used for the experiment: a double decker bus, Chevrolet van,
+Saab 9000 and an Opel Manta 400 cars. This particular combination of vehicles was chosen with
+the expectation that the bus, van and either one of the cars would be readily distinguishable, but
+it would be more difficult to distinguish between the cars.
+
+
+---Approach--
+1- Using EDA/Statistical Tests post modifying the features to ensure it still remains from the same sample
+2- Outlier Handling
+3- PCA
+4- SVM and crossvalidation technique.
