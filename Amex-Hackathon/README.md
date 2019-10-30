@@ -96,6 +96,8 @@ To summarise the entire process:
 Customers receive coupons under various campaigns and may choose to redeem it.
 They can redeem the given coupon for any valid product for that coupon as per coupon item mapping within the duration between campaign start date and end date
 Next, the customer will redeem the coupon for an item at the retailer store and that will reflect in the transaction table in the column coupon_discount.
+
+
 Evaluation Metric
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
